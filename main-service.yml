@@ -35,45 +35,45 @@ kln_farming_project.farmer.deletepostcomment : http://farmer-service/farmercommu
 
 
 # officer Management
-kln_farming_project.officer.login : http://CORE-SERVICE/officermain/login
+kln_farming_project.officer.login : http://officer-service/officermain/login
 
-kln_farming_project.officer.signin : http://CORE-SERVICE/officermain/signin
+kln_farming_project.officer.signin : http://officer-service/officermain/signin
 
-kln_farming_project.officer.uploadpost : http://CORE-SERVICE/officerpost/uploadpost
+kln_farming_project.officer.uploadpost : http://officer-service/officerpost/uploadpost
 
-kln_farming_project.officer.deletepost : http://CORE-SERVICE/officerpost/deletepost
+kln_farming_project.officer.deletepost : http://officer-service/officerpost/deletepost
 
-kln_farming_project.officer.confirmfarmerreg : http://CORE-SERVICE/officeradmin/confirmfarmerreg
+kln_farming_project.officer.confirmfarmerreg : http://officer-service/officeradmin/confirmfarmerreg
 
-kln_farming_project.officer.rejectfarmerreg : http://CORE-SERVICE/officeradmin/rejectfarmerreg
+kln_farming_project.officer.rejectfarmerreg : http://officer-service/officeradmin/rejectfarmerreg
 
-kln_farming_project.officer.confirmcustomerreg : http://CORE-SERVICE/officeradmin/confirmcustomerreg
+kln_farming_project.officer.confirmcustomerreg : http://officer-service/officeradmin/confirmcustomerreg
 
-kln_farming_project.officer.rejectcustomerreg : http://CORE-SERVICE/officeradmin/rejectcustomerreg
+kln_farming_project.officer.rejectcustomerreg : http://officer-service/officeradmin/rejectcustomerreg
 
-kln_farming_project.officer.confirmpostreg : http://CORE-SERVICE/officeradmin/confirmpostreg
+kln_farming_project.officer.confirmpostreg : http://officer-service/officeradmin/confirmpostreg
 
-kln_farming_project.officer.rejectpostreg : http://CORE-SERVICE/officeradmin/rejectpostreg
+kln_farming_project.officer.rejectpostreg : http://officer-service/officeradmin/rejectpostreg
 
-kln_farming_project.officer.getfarmerreqlist : http://CORE-SERVICE/officeradmin/getfarmerreqlist
+kln_farming_project.officer.getfarmerreqlist : http://officer-service/officeradmin/getfarmerreqlist
 
-kln_farming_project.officer.getcustomerreqlist : http://CORE-SERVICE/officeradmin/getcustomerreqlist
+kln_farming_project.officer.getcustomerreqlist : http://officer-service/officeradmin/getcustomerreqlist
 
-kln_farming_project.officer.getpostreqlist : http://CORE-SERVICE/officeradmin/getpostreqlist
+kln_farming_project.officer.getpostreqlist : http://officer-service/officeradmin/getpostreqlist
 
-kln_farming_project.officer.getnewposts : http://CORE-SERVICE/officercommunity/getnewposts
+kln_farming_project.officer.getnewposts : http://officer-service/officercommunity/getnewposts
 
-kln_farming_project.officer.gettipposts : http://CORE-SERVICE/officercommunity/gettipposts
+kln_farming_project.officer.gettipposts : http://officer-service/officercommunity/gettipposts
 
-kln_farming_project.officer.getnewsposts : http://CORE-SERVICE/officercommunity/getnewsposts
+kln_farming_project.officer.getnewsposts : http://officer-service/officercommunity/getnewsposts
 
-kln_farming_project.officer.getmyposts : http://CORE-SERVICE/officercommunity/getmyposts
+kln_farming_project.officer.getmyposts : http://officer-service/officercommunity/getmyposts
 
-kln_farming_project.officer.reactpost : http://CORE-SERVICE/officercommunity/reactpost
+kln_farming_project.officer.reactpost : http://officer-service/officercommunity/reactpost
 
-kln_farming_project.officer.addpostcomment : http://CORE-SERVICE/officercommunity/addpostcomment
+kln_farming_project.officer.addpostcomment : http://officer-service/officercommunity/addpostcomment
 
-kln_farming_project.officer.deletepostcomment : http://CORE-SERVICE/officercommunity/deletepostcomment
+kln_farming_project.officer.deletepostcomment : http://officer-service/officercommunity/deletepostcomment
 
 
 
