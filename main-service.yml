@@ -2,11 +2,11 @@ config.precedence: 100
 
 kln_farming_project.customer.login : http://customer-service/customermain/login
 kln_farming_project.customer.signin : http://customer-service/customermain/signin
-kln_farming_project.customer.updateprice : http://customer-service/customerservice/updateprice
-kln_farming_project.customer.farmerlist : http://customer-service/customerservice/farmerlist
-kln_farming_project.customer.viewfamercrop : http://customer-service/customerservice/viewfamercrop
-kln_farming_project.customer.marketlist : http://customer-service/customerservice/marketlist
-kln_farming_project.customer.viewmarketprice : http://customer-service/customerservice/viewmarketprice
+kln_farming_project.customer.updateprice : http://customer-service/customerhelpservice/updateprice
+kln_farming_project.customer.farmerlist : http://customer-service/customerhelpservice/farmerlist
+kln_farming_project.customer.viewfamercrop : http://customer-service/customerhelpservice/viewfamercrop
+kln_farming_project.customer.marketlist : http://customer-service/customerhelpservice/marketlist
+kln_farming_project.customer.viewmarketprice : http://customer-service/customerhelpservice/viewmarketprice
 kln_farming_project.customer.gettipposts : http://customer-service/customercommunity/gettipposts
 kln_farming_project.customer.getnewsposts : http://customer-service/customercommunity/getnewsposts
 
@@ -17,13 +17,13 @@ kln_farming_project.farmer.login : http://farmer-service/farmermain/login
 kln_farming_project.farmer.signin : http://farmer-service/farmermain/signin
 kln_farming_project.farmer.uploadpost : http://farmer-service/farmerpost/uploadpost
 kln_farming_project.farmer.deletepost : http://farmer-service/farmerpost/deletepost
-kln_farming_project.farmer.marketlist : http://farmer-service/farmerservice/marketlist
-kln_farming_project.farmer.viewmarketprice : http://farmer-service/farmerservice/viewmarketprice
-kln_farming_project.farmer.shoplist : http://farmer-service/farmerservice/shoplist
-kln_farming_project.farmer.viewshopitems : http://farmer-service/farmerservice/viewshopitems
-kln_farming_project.farmer.plaguelist : http://farmer-service/farmerservice/plaguelist
+kln_farming_project.farmer.marketlist : http://farmer-service/farmerhelpservice/marketlist
+kln_farming_project.farmer.viewmarketprice : http://farmer-service/farmerhelpservice/viewmarketprice
+kln_farming_project.farmer.shoplist : http://farmer-service/farmerhelpservice/shoplist
+kln_farming_project.farmer.viewshopitems : http://farmer-service/farmerhelpservice/viewshopitems
+kln_farming_project.farmer.plaguelist : http://farmer-service/farmerhelpservice/plaguelist
 
-kln_farming_project.farmer.plaguedetails : http://farmer-service/farmerservice/plaguedetails
+kln_farming_project.farmer.plaguedetails : http://farmer-service/farmerhelpservice/plaguedetails
 kln_farming_project.farmer.getnewposts : http://farmer-service/farmercommunity/getnewposts
 kln_farming_project.farmer.gettipposts : http://farmer-service/farmercommunity/gettipposts
 kln_farming_project.farmer.getnewsposts : http://farmer-service/farmercommunity/getnewsposts
