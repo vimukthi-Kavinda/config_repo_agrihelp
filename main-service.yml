@@ -64,6 +64,18 @@ kln_farming_project.officer.confirmofficerreg : http://officer-service/officerad
 kln_farming_project.officer.rejectofficerreg : http://officer-service/officeradmin/rejectofficerreg
 
 
+
+
+
+kln_farming_project.officer.getfarmerreqlist : http://officer-service/officeradmin/getfarmerreqlist
+
+kln_farming_project.officer.getcustomerreqlist : http://officer-service/officeradmin/getcustomerreqlist
+
+kln_farming_project.officer.getofficerreqlist : http://officer-service/officeradmin/getofficerreqlist
+
+
+
+
 kln_farming_project.officer.getpostreqlist : http://officer-service/officeradmin/getpostreqlist
 
 kln_farming_project.officer.getnewposts : http://officer-service/officercommunity/getnewposts
