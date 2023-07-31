@@ -59,6 +59,11 @@ kln_farming_project.officer.getfarmerreqlist : http://officer-service/officeradm
 
 kln_farming_project.officer.getcustomerreqlist : http://officer-service/officeradmin/getcustomerreqlist
 
+kln_farming_project.officer.confirmofficerreg : http://officer-service/officeradmin/confirmofficerreg
+
+kln_farming_project.officer.rejectofficerreg : http://officer-service/officeradmin/rejectofficerreg
+
+
 kln_farming_project.officer.getpostreqlist : http://officer-service/officeradmin/getpostreqlist
 
 kln_farming_project.officer.getnewposts : http://officer-service/officercommunity/getnewposts
@@ -75,6 +80,9 @@ kln_farming_project.officer.addpostcomment : http://officer-service/officercommu
 
 kln_farming_project.officer.deletepostcomment : http://officer-service/officercommunity/deletepostcomment
 
+kln_farming_project.officer.adddisease : http://officer-service/officercommunity/adddisease
+
+kln_farming_project.officer.deletedisease : http://officer-service/officercommunity/deletedisease
 
 
 
