@@ -69,7 +69,7 @@ kln_farming_project.officer.rejectofficerreg : http://officer-service/officeradm
 
 #kln_farming_project.officer.getfarmerreqlist : http://officer-service/officeradmin/getfarmerreqlist
 
-kln_farming_project.officer.getcustomerreqlist : http://officer-service/officeradmin/getcustomerreqlist
+#kln_farming_project.officer.getcustomerreqlist : http://officer-service/officeradmin/getcustomerreqlist
 
 kln_farming_project.officer.getofficerreqlist : http://officer-service/officeradmin/getofficerreqlist
 
