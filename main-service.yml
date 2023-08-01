@@ -17,6 +17,8 @@ kln_farming_project.farmer.login : http://farmer-service/farmermain/login
 kln_farming_project.farmer.signin : http://farmer-service/farmermain/signin
 kln_farming_project.farmer.uploadpost : http://farmer-service/farmerpost/uploadpost
 kln_farming_project.farmer.deletepost : http://farmer-service/farmerpost/deletepost
+kln_farming_project.farmer.getpostreactscomments : http://farmer-service/farmercommunity/getpostreactscomments
+
 kln_farming_project.farmer.marketlist : http://farmer-service/farmerhelpservice/marketlist
 kln_farming_project.farmer.viewmarketprice : http://farmer-service/farmerhelpservice/viewmarketprice
 kln_farming_project.farmer.shoplist : http://farmer-service/farmerhelpservice/shoplist
@@ -42,6 +44,9 @@ kln_farming_project.officer.signin : http://officer-service/officermain/signin
 kln_farming_project.officer.uploadpost : http://officer-service/officerpost/uploadpost
 
 kln_farming_project.officer.deletepost : http://officer-service/officerpost/deletepost
+
+kln_farming_project.officer.getpostreactscomments : http://officer-service/officercommunity/getpostreactscomments
+
 
 kln_farming_project.officer.confirmfarmerreg : http://officer-service/officeradmin/confirmfarmerreg
 
