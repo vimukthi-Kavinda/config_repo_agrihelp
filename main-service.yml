@@ -25,6 +25,14 @@ kln_farming_project.farmer.shoplist : http://farmer-service/farmerhelpservice/sh
 kln_farming_project.farmer.viewshopitems : http://farmer-service/farmerhelpservice/viewshopitems
 kln_farming_project.farmer.plaguelist : http://farmer-service/farmerhelpservice/plaguelist
 
+kln_farming_project.farmer.mycroplist : http://farmer-service/farmerhelpservice/mycroplist
+kln_farming_project.farmer.deletemycrop : http://farmer-service/farmerhelpservice/deletemycrop
+kln_farming_project.farmer.addmycrop : http://farmer-service/farmerhelpservice/addmycrop
+kln_farming_project.farmer.editmycrop : http://farmer-service/farmerhelpservice/editmycrop
+kln_farming_project.farmer.allcroplist : 
+kln_farming_project.farmer.viewcropfertilizer : 
+
+
 kln_farming_project.farmer.plaguedetails : http://farmer-service/farmerhelpservice/plaguedetails
 kln_farming_project.farmer.getnewposts : http://farmer-service/farmercommunity/getnewposts
 kln_farming_project.farmer.gettipposts : http://farmer-service/farmercommunity/gettipposts
@@ -100,13 +108,26 @@ kln_farming_project.officer.deletepostcomment : http://officer-service/officerco
 kln_farming_project.officer.adddisease : http://officer-service/officercommunity/adddisease
 
 kln_farming_project.officer.deletedisease : http://officer-service/officercommunity/deletedisease
+kln_farming_project.officer.plaguelist : http://officer-service/officercommunity/plaguelist
+kln_farming_project.officer.plaguedetails : http://officer-service/officercommunity/plaguedetails
+kln_farming_project.officer.reportdisease : http://officer-service/officercommunity/reportdisease
+kln_farming_project.officer.addcrop : http://officer-service/officercommunity/addcrop
 
 
+kln_farming_project.market.editcrop : 
+kln_farming_project.market.deletecrop : 
+kln_farming_project.market.mycroplist : 
+kln_farming_project.market.signin : marketmain
+kln_farming_project.market.addcrop : 
+kln_farming_project.market.login : marketmain
 
-
-
-
-
-
+kln_farming_project.shop.editproduct : 
+kln_farming_project.shop.deleteproduct : 
+kln_farming_project.shop.myproductlist : 
+kln_farming_project.shop.addproductstore : 
+kln_farming_project.shop.addnewproduct : 
+kln_farming_project.shop.signin : 
+kln_farming_project.shop.login : 
+kln_farming_project.shop.signinowner : 
 
 
