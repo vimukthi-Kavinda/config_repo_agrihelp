@@ -136,3 +136,4 @@ kln_farming_project.component.accessdistrict : http://component-service/componen
 kln_farming_project.component.accessandloadpesticide : http://component-service/component/accessandloadpesticide
 kln_farming_project.component.accessandloaddisease : http://component-service/component/accessandloaddisease
 kln_farming_project.component.accessandloadprovince : http://component-service/component/accessandloadprovince
+kln_farming_project.component.accesscropandprovince : http://component-service/component/accesscropandprovince
