@@ -130,6 +130,6 @@ kln_farming_project.shop.signin :
 kln_farming_project.shop.login : 
 kln_farming_project.shop.signinowner : 
 
-
+kln_farming_project.component.accessarea : http://component-service/component/accessdistrict
 kln_farming_project.component.accessdistrict : http://component-service/component/accessdistrict
-
+kln_farming_project.component.accessandloadpesticide : http://component-service/component/accessandloadpesticide
