@@ -130,6 +130,8 @@ kln_farming_project.shop.signin :
 kln_farming_project.shop.login : 
 kln_farming_project.shop.signinowner : 
 
+
+kln_farming_project.component.accessandloadfertilizer : http://component-service/component/accessandloadfertilizer
 kln_farming_project.component.accessdiseaseandprovince : http://component-service/component/accessdiseaseandprovince
 kln_farming_project.component.accessarea : http://component-service/component/accessdistrict
 kln_farming_project.component.accessdistrict : http://component-service/component/accessdistrict
