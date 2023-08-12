@@ -29,8 +29,8 @@ kln_farming_project.farmer.mycroplist : http://farmer-service/farmerhelpservice/
 kln_farming_project.farmer.deletemycrop : http://farmer-service/farmerhelpservice/deletemycrop
 kln_farming_project.farmer.addmycrop : http://farmer-service/farmerhelpservice/addmycrop
 kln_farming_project.farmer.editmycrop : http://farmer-service/farmerhelpservice/editmycrop
-kln_farming_project.farmer.allcroplist : 
-kln_farming_project.farmer.viewcropfertilizer : 
+kln_farming_project.farmer.allcroplist : http://farmer-service/farmerhelpservice/allcroplist
+kln_farming_project.farmer.viewcropfertilizer : http://farmer-service/farmerhelpservice/viewcropfertilizer
 
 
 kln_farming_project.farmer.plaguedetails : http://farmer-service/farmerhelpservice/plaguedetails
