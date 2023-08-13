@@ -114,21 +114,22 @@ kln_farming_project.officer.reportdisease : http://officer-service/officercommun
 kln_farming_project.officer.addcrop : http://officer-service/officercommunity/addcrop
 
 
-kln_farming_project.market.editcrop : 
-kln_farming_project.market.deletecrop : 
-kln_farming_project.market.mycroplist : 
-kln_farming_project.market.signin : marketmain
-kln_farming_project.market.addcrop : 
-kln_farming_project.market.login : marketmain
+kln_farming_project.market.editcrop : http://market-service/marketservice/editcrop
+kln_farming_project.market.deletecrop : http://market-service/marketservice/deletecrop
+kln_farming_project.market.mycroplist : http://market-service/marketservice/mycroplist
+kln_farming_project.market.signin : http://market-service/marketmain/signin
+kln_farming_project.market.addcrop : http://market-service/marketservice/addcrop
+kln_farming_project.market.login : http://market-service/marketmain/login
+#marketmain
 
-kln_farming_project.shop.editproduct : 
-kln_farming_project.shop.deleteproduct : 
-kln_farming_project.shop.myproductlist : 
-kln_farming_project.shop.addproductstore : 
-kln_farming_project.shop.addnewproduct : 
-kln_farming_project.shop.signin : 
-kln_farming_project.shop.login : 
-kln_farming_project.shop.signinowner : 
+kln_farming_project.shop.editproduct : http://shop-service/shopservice/editproduct
+kln_farming_project.shop.deleteproduct : http://shop-service/shopservice/deleteproduct
+kln_farming_project.shop.myproductlist : http://shop-service/shopservice/myproductlist
+kln_farming_project.shop.addproductstore : http://shop-service/shopservice/addproductstore
+kln_farming_project.shop.addnewproduct : http://shop-service/shopservice/addnewproduct
+kln_farming_project.shop.signin : http://shop-service/shopmain/signin
+kln_farming_project.shop.login : http://shop-service/shopmain/login
+kln_farming_project.shop.signinowner : http://shop-service/shopmain/signinowner
 
 
 
