@@ -9,7 +9,7 @@ kln_farming_project.customer.marketlist : http://customer-service/customerhelpse
 kln_farming_project.customer.viewmarketprice : http://customer-service/customerhelpservice/viewmarketprice
 kln_farming_project.customer.gettipposts : http://customer-service/customercommunity/gettipposts
 kln_farming_project.customer.getnewsposts : http://customer-service/customercommunity/getnewsposts
-
+kln_farming_project.customer.officerlist : http://customer-service/customerhelpservice/officerlist
 
 # Userrole Management
 
@@ -24,6 +24,7 @@ kln_farming_project.farmer.viewmarketprice : http://farmer-service/farmerhelpser
 kln_farming_project.farmer.shoplist : http://farmer-service/farmerhelpservice/shoplist
 kln_farming_project.farmer.viewshopitems : http://farmer-service/farmerhelpservice/viewshopitems
 kln_farming_project.farmer.plaguelist : http://farmer-service/farmerhelpservice/plaguelist
+kln_farming_project.farmer.officerlist : http://customer-service/farmerhelpservice/officerlist
 
 kln_farming_project.farmer.mycroplist : http://farmer-service/farmerhelpservice/mycroplist
 kln_farming_project.farmer.deletemycrop : http://farmer-service/farmerhelpservice/deletemycrop
@@ -113,6 +114,19 @@ kln_farming_project.officer.plaguedetails : http://officer-service/officercommun
 kln_farming_project.officer.reportdisease : http://officer-service/officercommunity/reportdisease
 kln_farming_project.officer.addcrop : http://officer-service/officercommunity/addcrop
 
+kln_farming_project.officer.officerlist : http://customer-service/officercommunity/officerlist
+
+
+
+
+
+
+
+
+
+
+
+
 
 kln_farming_project.market.editcrop : http://market-service/marketservice/editcrop
 kln_farming_project.market.deletecrop : http://market-service/marketservice/deletecrop
@@ -136,7 +150,7 @@ kln_farming_project.shop.signinowner : http://shop-service/shopmain/signinowner
 kln_farming_project.component.accessandloadcrop : http://component-service/component/accessandloadcrop
 kln_farming_project.component.accessandloadfertilizer : http://component-service/component/accessandloadfertilizer
 kln_farming_project.component.accessdiseaseandprovince : http://component-service/component/accessdiseaseandprovince
-kln_farming_project.component.accessarea : http://component-service/component/accessdistrict
+kln_farming_project.component.accessarea : http://component-service/component/accessarea
 kln_farming_project.component.accessdistrict : http://component-service/component/accessdistrict
 kln_farming_project.component.accessandloadpesticide : http://component-service/component/accessandloadpesticide
 kln_farming_project.component.accessandloaddisease : http://component-service/component/accessandloaddisease
