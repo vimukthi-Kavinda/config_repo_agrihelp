@@ -159,3 +159,16 @@ kln_farming_project.component.accesscropandprovince : http://component-service/c
 kln_farming_project.component.accessdistrictandcrop : http://component-service/component/accessdistrictandcrop
 kln_farming_project.component.accessdistrictandproduct : http://component-service/component/accessdistrictandproduct
 
+
+
+kln_farming_project.officer.officernotification : http://officer-service/officercommunity/officernotification
+kln_farming_project.officer.officerproductnotification : http://officer-service/officercommunity/officerproductnotification
+kln_farming_project.officer.officerplaguenotification : http://officer-service/officercommunity/officerplaguenotification
+
+kln_farming_project.farmer.farmernotification : http://farmer-service/farmercommunity/farmernotification
+kln_farming_project.farmer.farmerproductnotification : http://farmer-service/farmercommunity/farmerproductnotification
+kln_farming_project.farmer.farmerplaguenotification : http://farmer-service/farmercommunity/farmerplaguenotification
+
+kln_farming_project.customer.customernotification : http://customer-service/customercommunity/customernotification
+kln_farming_project.customer.customerproductnotification : http://customer-service/customercommunity/customerproductnotification
+
