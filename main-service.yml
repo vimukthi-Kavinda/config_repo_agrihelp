@@ -172,3 +172,9 @@ kln_farming_project.farmer.farmerplaguenotification : http://farmer-service/farm
 kln_farming_project.customer.customernotification : http://customer-service/customercommunity/customernotification
 kln_farming_project.customer.customerproductnotification : http://customer-service/customercommunity/customerproductnotification
 
+
+//shop product
+
+kln_farming_project.shop.productdetails : http://shop-service/shopservice/productdetails
+
+
