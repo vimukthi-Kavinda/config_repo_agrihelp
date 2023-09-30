@@ -178,3 +178,7 @@ kln_farming_project.customer.customerproductnotification : http://customer-servi
 kln_farming_project.shop.productdetails : http://shop-service/shopservice/productdetails
 
 
+#component
+kln_farming_project.component.accessproductinshop : http://component-service/component/accessproductinshop
+
+
