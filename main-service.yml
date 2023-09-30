@@ -173,7 +173,7 @@ kln_farming_project.customer.customernotification : http://customer-service/cust
 kln_farming_project.customer.customerproductnotification : http://customer-service/customercommunity/customerproductnotification
 
 
-//shop product
+#shop product
 
 kln_farming_project.shop.productdetails : http://shop-service/shopservice/productdetails
 
