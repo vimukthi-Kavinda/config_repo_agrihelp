@@ -212,7 +212,8 @@ kln_farming_project.shop.updateownerinfo : http://shop-service/shopmain/updateow
 kln_farming_project.shop.deleteowneraccount : http://shop-service/shopmain/deleteowneraccount
 kln_farming_project.shop.getownerinfo : http://shop-service/shopmain/getownerinfo
 
-
+kln_farming_project.officer.productdetails : http://officer-service/officercommunity/productdetails
+kln_farming_project.farmer.productdetails : http://farmer-service/farmerhelpservice/productdetails
 
 
 
