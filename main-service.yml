@@ -182,3 +182,37 @@ kln_farming_project.shop.productdetails : http://shop-service/shopservice/produc
 kln_farming_project.component.accessproductinshop : http://component-service/component/accessproductinshop
 
 
+
+
+#profile management
+kln_farming_project.customer.getinfo : http://customer-service/customermain/getinfo
+kln_farming_project.customer.deleteaccount : http://customer-service/customermain/deleteaccount
+kln_farming_project.customer.updateinfo : http://customer-service/customermain/updateinfo
+
+
+kln_farming_project.farmer.getinfo : http://farmer-service/farmermain/getinfo
+kln_farming_project.farmer.deleteaccount : http://farmer-service/farmermain/deleteaccount
+kln_farming_project.farmer.updateinfo : http://farmer-service/farmermain/updateinfo
+
+kln_farming_project.market.getinfo : http://market-service/marketmain/getinfo
+kln_farming_project.market.deleteaccount : http://market-service/marketmain/deleteaccount
+kln_farming_project.market.updateinfo : http://market-service/marketmain/updateinfo
+
+
+kln_farming_project.officer.getinfo : http://officer-service/officermain/getinfo
+kln_farming_project.officer.deleteaccount : http://officer-service/officermain/deleteaccount
+kln_farming_project.officer.updateinfo : http://officer-service/officermain/updateinfo
+
+
+kln_farming_project.shop.updatestoreinfo : http://shop-service/shopmain/updatestoreinfo
+kln_farming_project.shop.deletestore : http://shop-service/shopmain/deletestore
+kln_farming_project.shop.getstoreinfo : http://shop-service/shopmain/getstoreinfo
+
+kln_farming_project.shop.updateownerinfo : http://shop-service/shopmain/updateownerinfo
+kln_farming_project.shop.deleteowneraccount : http://shop-service/shopmain/deleteowneraccount
+kln_farming_project.shop.getownerinfo : http://shop-service/shopmain/getownerinfo
+
+
+
+
+
