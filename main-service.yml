@@ -216,4 +216,7 @@ kln_farming_project.officer.productdetails : http://officer-service/officercommu
 kln_farming_project.farmer.productdetails : http://farmer-service/farmerhelpservice/productdetails
 
 
+kln_farming_project.farmer.getrecomandedpestlist : http://farmer-service/officercommunity/getrecomandedpestlist
+kln_farming_project.officer.getrecomandedpestlist : http://officer-service/farmerhelpservice/getrecomandedpestlist
+
 
