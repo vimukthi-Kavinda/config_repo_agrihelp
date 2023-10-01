@@ -220,5 +220,5 @@ kln_farming_project.farmer.getrecomandedpestlist : http://farmer-service/farmerh
 kln_farming_project.officer.getrecomandedpestlist : http://officer-service/officercommunity/getrecomandedpestlist
 
 
-
+kln_farming_project.component.accessareaandspeciality : http://component-service/component/accessareaandspeciality
 kln_farming_project.component.accessdistrictandspeciality : http://component-service/component/accessdistrictandspeciality
